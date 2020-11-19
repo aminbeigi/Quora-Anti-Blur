@@ -1,11 +1,20 @@
 {
-    "name": "quora-blur-blocker",
+    "name": "Quora Blur Blocker",
+    "description" : "Avoid the blur when browsing quora.com without signing in.",
     "version": "1.0",
     "manifest_version": 2,
+
+    "icons": {
+        "16": "images/16.png",
+        "48": "images/48.png",
+        "128": "images/128.png"
+      },
+
     "content_scripts": [
         {
-            "matches": ["<all_urls>"],
-            "js": ["content.js"]
+            "matches": ["https://www.quora.com/*"],
+            "js": ["content.js"],
+            "run_at": "document_end"
         }
     ]
 }
