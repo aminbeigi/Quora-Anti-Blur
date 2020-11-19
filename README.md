@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/QeapfqL.png" height="240px" width="240px"/>
 <br/>
 <h3 align="center">Quora Anti-Blur</h3>
-<p align="center">Source code for the Quora-Anti-Blur chrome extention.</p>
+<p align="center">Source code for the Quora Anti-Blur chrome extention.</p>
 <h2></h2>
 </p>
 <br />
