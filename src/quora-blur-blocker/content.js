@@ -1,4 +1,3 @@
-
 // globals
 const HREF = 'https://qsbr.fs.quoracdn.net/-4-main.css-27-a63fda2be3e297f3.css';
 const elements = document.querySelectorAll("link[href='" + HREF + "']");
@@ -11,12 +10,3 @@ const removeBlur = async () => {
 }
 
 removeBlur();
-
-/*
-const removeBlur = async () => {
-    const f = (e) => {
-        e.remove();
-    }
-    elements.forEach(f);
-}
-*/
