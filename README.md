@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/QeapfqL.png" height="240px" width="240px"/>
+<img src="https://i.imgur.com/QeapfqL.png" height="200px" width="200px"/>
 <br/>
 <h3 align="center">Quora Anti-Blur</h3>
 <p align="center">Source code for the Quora Anti-Blur chrome extention.</p>
