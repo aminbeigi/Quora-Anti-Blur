@@ -13,7 +13,7 @@
 </p>
 
 ## Description
-A simple chrome extention that removes the blur and sign-up prompt that non-signed in users see when browsing quora.com. 
+A simple chrome extention that removes the blur and sign-up prompt that non-signed in users see when browsing quora.com.  
 This is done by searching for and removing the CSS block (blur) that is wrapped over the orignal HTML page.
 
 ## Contributions
