@@ -10,7 +10,7 @@
 <p align="center">
 <a href="../../issues"><img src="https://img.shields.io/github/issues/aminbeigi/Quora-Anti-Blur.svg?style=flat-square" /></a>
 <a href="../../pulls"><img src="https://img.shields.io/github/issues-pr/aminbeigi/Quora-Anti-Blur.svg?style=flat-square" /></a>
-<img src="https://img.shields.io/github/license/aminbeigi/Quora-Anti-Blurstyle=flat-square">
+<img src="https://img.shields.io/github/license/aminbeigi/Quora-Anti-Blur?style=flat-square">
 </p>
 
 ## Description
